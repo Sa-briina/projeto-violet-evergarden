@@ -3,7 +3,7 @@
 
 
 
-# 💜 Violet Evergarden - A Emoção em Cada Letra  
+# 💜A Emoção em Cada Letra  
 *"Assim como Violet aprendeu a traduzir sentimentos em palavras, este projeto marca o início da minha jornada no mundo do código."*  
 
 ![GIF do Projeto](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNnYXVzeHIzaWkyNjVzNGkwazF5bzY4azAyMHlsN3YycHVsM3ZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5CHuTiTEwcoXQwvIzZ/giphy.gif)  
