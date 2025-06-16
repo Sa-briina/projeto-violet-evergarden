@@ -1,3 +1,8 @@
+
+![Título Violet Evergarden](Readmi-img/vioo.svg)
+
+
+
 # 💜 Violet Evergarden - A Emoção em Cada Letra  
 *"Assim como Violet aprendeu a traduzir sentimentos em palavras, este projeto marca o início da minha jornada no mundo do código."*  
 
